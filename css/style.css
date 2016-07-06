@@ -6,7 +6,7 @@
 
 html, body {
 	background-color: #0c739f;
-	background:url('../img/bg.jpg') repeat-x #0c739f
+	background:url('../img/bg.jpg') repeat-x #0c739f;
 }
 
 div.header {
@@ -141,7 +141,7 @@ div.menu {
 }
 
 .dropdown li a{
-	margin: 0 10px;
+	margin: 0 5px;
 	display: block;
 	white-space: nowrap;
 	line-height: 28px;
